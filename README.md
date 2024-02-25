@@ -1,8 +1,9 @@
 # Introducton :
 I've created a project of "registration form" with MERN, during internship at Bharat Intern.
 Responsive user Registration and Login (Register, login & logout) Form functionality.
-Frontend : HTML, CSS, Javascript, ReactJS
-Backend : NodeJS, Express, MongoDB
+
+<b>Frontend : </b> HTML, CSS, Javascript, ReactJS <br/>
+<b>Backend : </b> NodeJS, Express, MongoDB.
 
 # Register page :
 
